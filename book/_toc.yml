@@ -1,0 +1,35 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Foundations
+    chapters:
+      - file: chapters/00_about_this_book
+      - file: chapters/10_foundations_overview
+      - file: chapters/01_environment_setup
+      - file: chapters/02_first_notebook
+
+  - caption: LeetCode
+    chapters:
+      - file: chapters/20_leetcode_overview
+
+  - caption: Machine Learning
+    chapters:
+      - file: chapters/30_machine_learning_overview
+
+  - caption: LLMs
+    chapters:
+      - file: chapters/40_llms_overview
+      - file: chapters/41_LM_deep_dive
+      - file: chapters/42_LM_evolution_code_examples
+      - file: chapters/43_how_llms_work
+      - file: chapters/44_transformer_deep_dive
+      - file: chapters/45_llm_figures
+      - file: chapters/46_using_llms_in_practice
+
+  - caption: AI Agents
+    chapters:
+      - file: chapters/50_ai_agents_overview
+
+  - caption: Cloud Engineering
+    chapters:
+      - file: chapters/60_cloud_engineering_overview

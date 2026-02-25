@@ -1,0 +1,16 @@
+title: From Zero to AI Engineering
+author: Your Name
+copyright: "2026"
+
+only_build_toc_files: true
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/your-org/FromZeroToAIEngineering
+  path_to_book: book
+
+html:
+  use_issues_button: true
+  use_repository_button: true

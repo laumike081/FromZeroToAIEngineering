@@ -1,0 +1,17 @@
+[project]
+name = "from-zero-to-ai-engineering"
+version = "0.1.0"
+description = "Jupyter Book built from notebooks documenting a journey from zero to AI engineer"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "jupyter-book<2",
+  "playwright",
+  "torch",
+  "tiktoken",
+  "matplotlib",
+  "numpy",
+]
+
+[tool.uv]
+# uv will resolve and lock dependencies into uv.lock
