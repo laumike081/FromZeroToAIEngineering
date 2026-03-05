@@ -123,6 +123,7 @@ parts:
       - file: chapters/leetcode/2260_minimum_consecutive_cards_to_pick_up
       - file: chapters/leetcode/2300_successful_pairs_of_spells_and_potions
       - file: chapters/leetcode/2336_smallest_number_in_infinite_set
+      - file: chapters/leetcode/2342_max_sum_of_pair_with_equal_sum_of_digits
       - file: chapters/leetcode/2352_equal_row_and_column_pairs
       - file: chapters/leetcode/2390_removing_stars_from_string
       - file: chapters/leetcode/2542_maximum_subsequence_score
