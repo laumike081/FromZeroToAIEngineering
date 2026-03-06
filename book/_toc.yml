@@ -26,6 +26,7 @@ parts:
       - file: chapters/python/13_big_o_notation
       - file: chapters/python/14_prefix_sum
       - file: chapters/python/15_hashmap
+      - file: chapters/python/16_linked_list_deep_dive
 
   - caption: LeetCode
     chapters:
