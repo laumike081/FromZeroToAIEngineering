@@ -30,6 +30,7 @@ parts:
     chapters:
       - file: chapters/20_leetcode_overview
       - file: chapters/leetcode/001_two_sum
+      - file: chapters/leetcode/003_longest_substring_without_repeating_characters
       - file: chapters/leetcode/011_container_with_most_water
       - file: chapters/leetcode/014_longest_common_prefix
       - file: chapters/leetcode/015_three_sum
