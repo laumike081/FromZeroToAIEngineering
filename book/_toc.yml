@@ -34,6 +34,7 @@ parts:
       - file: chapters/leetcode/014_longest_common_prefix
       - file: chapters/leetcode/015_three_sum
       - file: chapters/leetcode/017_letter_combinations_of_phone_number
+      - file: chapters/leetcode/049_group_anagrams
       - file: chapters/leetcode/053_maximum_subarray
       - file: chapters/leetcode/062_unique_paths
       - file: chapters/leetcode/072_edit_distance
