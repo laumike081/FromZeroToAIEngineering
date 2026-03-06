@@ -1,5 +1,5 @@
 title: From Zero to AI Engineering
-author: Your Name
+author: Mike Lau × AI
 copyright: "2026"
 
 only_build_toc_files: true
@@ -8,7 +8,7 @@ execute:
   execute_notebooks: "off"
 
 repository:
-  url: https://github.com/your-org/FromZeroToAIEngineering
+  url: https://github.com/laumike081/FromZeroToAIEngineering
   path_to_book: book
 
 html:
