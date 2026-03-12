@@ -27,6 +27,8 @@ parts:
       - file: chapters/python/14_prefix_sum
       - file: chapters/python/15_hashmap
       - file: chapters/python/16_linked_list_deep_dive
+      - file: chapters/python/17_stacks_and_queues_comprehensive
+      - file: chapters/python/18_monotonic_stack_and_queue
 
   - caption: LeetCode
     chapters:
@@ -37,11 +39,15 @@ parts:
       - file: chapters/leetcode/014_longest_common_prefix
       - file: chapters/leetcode/015_three_sum
       - file: chapters/leetcode/017_letter_combinations_of_phone_number
+      - file: chapters/leetcode/020_valid_parentheses
       - file: chapters/leetcode/049_group_anagrams
       - file: chapters/leetcode/053_maximum_subarray
       - file: chapters/leetcode/062_unique_paths
+      - file: chapters/leetcode/071_simplify_path
       - file: chapters/leetcode/072_edit_distance
       - file: chapters/leetcode/104_maximum_depth_of_binary_tree
+      - file: chapters/leetcode/1047_remove_all_adjacent_duplicates_in_string
+      - file: chapters/leetcode/1544_make_the_string_great
       - file: chapters/leetcode/121_best_time_to_buy_sell_stock
       - file: chapters/leetcode/136_single_number
       - file: chapters/leetcode/151_reverse_words_in_string
@@ -51,6 +57,8 @@ parts:
       - file: chapters/leetcode/198_house_robber
       - file: chapters/leetcode/199_binary_tree_right_side_view
       - file: chapters/leetcode/200_number_of_islands
+      - file: chapters/leetcode/083_remove_duplicates_from_sorted_list
+      - file: chapters/leetcode/092_reverse_linked_list_ii
       - file: chapters/leetcode/206_reverse_linked_list
       - file: chapters/leetcode/208_implement_trie
       - file: chapters/leetcode/215_kth_largest_element_in_array
@@ -71,6 +79,7 @@ parts:
       - file: chapters/leetcode/399_evaluate_division
       - file: chapters/leetcode/401_binary_watch
       - file: chapters/leetcode/435_non_overlapping_intervals
+      - file: chapters/leetcode/496_next_greater_element_i
       - file: chapters/leetcode/437_path_sum_iii
       - file: chapters/leetcode/443_string_compression
       - file: chapters/leetcode/450_delete_node_in_bst
@@ -103,6 +112,7 @@ parts:
       - file: chapters/leetcode/1268_search_suggestions_system
       - file: chapters/leetcode/1318_minimum_flips_to_make_a_or_b_equal_to_c
       - file: chapters/leetcode/1372_longest_zigzag_path_in_binary_tree
+      - file: chapters/leetcode/141_linked_list_cycle
       - file: chapters/leetcode/1413_minimum_value_to_get_positive_step
       - file: chapters/leetcode/1426_counting_elements
       - file: chapters/leetcode/1431_kids_with_greatest_candies
