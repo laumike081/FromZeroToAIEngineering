@@ -102,8 +102,10 @@ parts:
       - file: chapters/leetcode/875_koko_eating_bananas
       - file: chapters/leetcode/901_online_stock_span
       - file: chapters/leetcode/933_number_of_recent_calls
+      - file: chapters/leetcode/977_squares_of_sorted_array
       - file: chapters/leetcode/994_rotting_oranges
       - file: chapters/leetcode/1004_max_consecutive_ones_iii
+      - file: chapters/leetcode/1089_duplicate_zeros
       - file: chapters/leetcode/1133_largest_unique_number
       - file: chapters/leetcode/1143_longest_common_subsequence
       - file: chapters/leetcode/1161_maximum_level_sum_of_binary_tree
