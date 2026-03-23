@@ -21,6 +21,7 @@ parts:
       - file: chapters/python/08_trees
       - file: chapters/python/09_graphs
       - file: chapters/python/10_sorting_algorithms
+      - file: chapters/python/10_sorting_algorithms_detailed
       - file: chapters/python/11_searching_algorithms
       - file: chapters/python/12_recursion
       - file: chapters/python/13_big_o_notation
