@@ -30,6 +30,7 @@ parts:
       - file: chapters/python/16_linked_list_deep_dive
       - file: chapters/python/17_stacks_and_queues_comprehensive
       - file: chapters/python/18_monotonic_stack_and_queue
+      - file: chapters/python/19_two_pointer_pattern
 
   - caption: LeetCode
     chapters:
