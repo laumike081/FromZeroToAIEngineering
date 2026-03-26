@@ -94,6 +94,7 @@ parts:
       - file: chapters/leetcode/645_set_mismatch
       - file: chapters/leetcode/649_dota2_senate
       - file: chapters/leetcode/700_search_in_bst
+      - file: chapters/leetcode/701_insert_into_a_binary_search_tree
       - file: chapters/leetcode/714_best_time_to_buy_sell_stock_with_fee
       - file: chapters/leetcode/724_find_pivot_index
       - file: chapters/leetcode/735_asteroid_collision
