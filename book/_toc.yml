@@ -32,6 +32,10 @@ parts:
       - file: chapters/python/18_monotonic_stack_and_queue
       - file: chapters/python/19_two_pointer_pattern
 
+  - caption: PyTorch
+    chapters:
+      - file: chapters/pytorch/01_tensor_basics
+
   - caption: LeetCode
     chapters:
       - file: chapters/20_leetcode_overview
