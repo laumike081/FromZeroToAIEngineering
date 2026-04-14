@@ -66,6 +66,7 @@ parts:
       - file: chapters/leetcode/200_number_of_islands
       - file: chapters/leetcode/083_remove_duplicates_from_sorted_list
       - file: chapters/leetcode/092_reverse_linked_list_ii
+      - file: chapters/leetcode/096_unique_binary_search_trees
       - file: chapters/leetcode/206_reverse_linked_list
       - file: chapters/leetcode/208_implement_trie
       - file: chapters/leetcode/215_kth_largest_element_in_array
