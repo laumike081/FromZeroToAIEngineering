@@ -88,8 +88,8 @@ parts:
       - file: chapters/leetcode/399_evaluate_division
       - file: chapters/leetcode/401_binary_watch
       - file: chapters/leetcode/435_non_overlapping_intervals
-      - file: chapters/leetcode/496_next_greater_element_i
       - file: chapters/leetcode/437_path_sum_iii
+      - file: chapters/leetcode/438_find_all_anagrams_in_string
       - file: chapters/leetcode/443_string_compression
       - file: chapters/leetcode/450_delete_node_in_bst
       - file: chapters/leetcode/452_minimum_number_of_arrows_to_burst_balloons
