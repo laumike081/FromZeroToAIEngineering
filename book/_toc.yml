@@ -130,6 +130,7 @@ parts:
       - file: chapters/leetcode/1413_minimum_value_to_get_positive_step
       - file: chapters/leetcode/1426_counting_elements
       - file: chapters/leetcode/1431_kids_with_greatest_candies
+      - file: chapters/leetcode/1441_build_array_with_stack_operations
       - file: chapters/leetcode/1448_count_good_nodes_in_binary_tree
       - file: chapters/leetcode/1456_maximum_number_of_vowels_in_substring
       - file: chapters/leetcode/1466_reorder_routes_to_make_all_paths_lead_to_city_zero
